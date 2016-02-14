@@ -2,11 +2,11 @@
 
 ## Luftvei##
 
-### CICO/CICV Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere ###
+### Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere (CICO/CICV) ###
 
 Denne prosedyren skal læres utenatt.
 
-![Vanskelig luftvei](img/c1/uvenluft3dp.png)
+![](img/c1/uvenluft3dp.png)
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
