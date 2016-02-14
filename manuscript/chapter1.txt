@@ -6,6 +6,7 @@
 
 Denne prosedyren skal læres utenatt.
 
+{width=70%,float=right}
 ![Vanskelig luft][id]
 
 [id]: img/c1/uvenluft3dpi.png "Vanskelig maske"
