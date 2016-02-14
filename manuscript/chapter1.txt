@@ -7,7 +7,7 @@
 Denne prosedyren skal læres utenatt.
 
 <!-- {width=70%,float=right} -->
-{width=50%}
+{width=30%}
 ![Vanskelig luft][id]
 
 [id]: img/c1/uvenluft3dpi.png "Vanskelig maske"
