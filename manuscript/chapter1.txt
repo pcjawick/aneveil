@@ -40,6 +40,9 @@ Kontraindikasjoner(alle er realtive):
 - Arteriepinsett
 - Kompresser
 
+<!-- ![An awesome sword](images/Sword1200px300ppi.png)
+
+{pagebreak} {frontmatter} {mainmatter} {backmatter}-->
 
 ### Øvre Luftveisobstruksjon ###
 
