@@ -1,6 +1,7 @@
 # Akuttmedisin##
 
 ## Luftvei##
+
 ### CICO/CICV Kan Ikke Venitlere Kan Ikke Oksygenere/Ventilere ###
 
 Denne prosedyren skal læres utenatt
@@ -40,21 +41,33 @@ Kontraindikasjoner(alle er realtive):
 - Kompresser
 
 
-
-
 ### Øvre Luftveisobstruksjon ###
+
+lipsum dorumlipsum dorumlipsum dorum lipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorum
 
 ### Larynxspasme - Barn ###
 
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
 ### Svært Overvektige ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 ## Resusitering ##
 
+lipsum dourm 
+
 ### Nyfødte ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 ### Barn ###
 
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
 ### Voksne ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 ## Forskjellige Nødkirurgiske/Akutte Anestesier ##
 
