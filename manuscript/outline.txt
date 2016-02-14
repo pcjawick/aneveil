@@ -1,0 +1,87 @@
+Akuttmedisin - Chapter1.txt
+
+Katastrofeplan(kortutgave for anestesileger)
+
+Arbeidshverdagen
+	Vakttidsdefinisjoner og møtetidspunkter
+	Internundervisning og fagsnutt
+	Melding av uønskede hendelser
+
+	Registrering av prosedyrer
+
+	Callingliste
+
+Spesielle problemstillinger
+	Jehovas vitner
+	Samtykke og nødrett
+	HLR status og tilbaketrekking av behandling
+	Dødserklæring
+	Innsynsrett i journal
+	Kjernejournal
+
+Planleggingsfasen av anestesi
+	Operasjonsmeldingen
+		Fasting
+		Luftveisvurdering
+			Våkenintubasjon
+			RSI
+			Andre hjelpemidler
+			Jetventilasjon
+		Blodprøveanbefaling
+		DIPS versus Tilsett
+	Medikamentelle vurderinger	
+		Premedikasjon
+		Pasientens vanlige medikamenter(inkl P-piller og hormonpreparater)
+		Antibiotikaprofylakse
+		Endokardittprofylakse
+		Tromboseprofylakse
+	ASA og preoperativ vurdering
+		Hjertesykdommer
+		Lungesykdommer
+		Diabetes
+		RA
+		Bechterew
+		Thyroidea
+		Binyrebarksvikt
+		Carcinoid/pheokromocytom
+		Porfyrier
+		Rus- og stoffmisbruk
+			Alkohol
+			Sentralstimulerende
+			Opioider
+	Monitorering
+
+Strategier ved valg av anestesimodalitet
+	Generell anestesi
+		TIVA
+		Iv og inhalasjon
+		TCA
+
+	Regionalanestesivurdering(inkludert blødningsrisiko)
+		EDA
+		Spinal
+		Blokkader
+			Øvre
+			Nedre
+
+Innledning
+	Vanlige problem
+Perioperativt
+	Væske
+		Blod og blodprodukter
+		Elektrolyttløsninger
+		Kolloider
+		PPV
+		Cellsaver
+	Vanlige problem
+Ved avslutning
+	Smerteforebygging
+	Respirasjonstrøbbel
+	Ekstubasjonstrøbbel
+	PONV forebygging
+	Vanlige problem
+
+Anestesistrategier etter organproblem
+
+Intesivbehandling og intensivtransport
+
