@@ -6,7 +6,7 @@
 
 Denne prosedyren skal læres utenatt.
 
-![Vanskelig luftvei](manuscript/img/c1/uvanluft.png)
+![Vanskelig luftvei](aneveil/manuscript/img/c1/uvanluft.png)
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
