@@ -4,9 +4,9 @@
 
 ### CICO/CICV Kan Ikke Venitlere Kan Ikke Oksygenere/Ventilere ###
 
-Denne prosedyren skal læres utenatt
+Denne prosedyren skal læres utenatt.
 
-[Vanskelig luftvei](img/c1/uvanluft.png)
+[Vanskelig luftvei](manuscript/img/c1/uvanluft.png)
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
