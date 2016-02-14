@@ -1,0 +1,50 @@
+# Akuttmedisin #
+
+## Luftvei ##
+### CICO/CICV Kan Ikke Venitlere Kan Ikke Oksygenere/Ventilere ###
+
+### Nødcricothyroidetomi ###
+
+### Øvre Luftveisobstruksjon ###
+
+### Larynxspasme - Barn ###
+
+### Svært Overvektige ###
+
+## Resusitering ##
+### Nyfødte ###
+
+### Barn ###
+
+### Voksne ###
+
+## Forskjellige Nødkirurgiske/Akutte Anestesier ##
+### Hodeskader og økt intrakranielt trykk(ICP) ###
+
+### Blødningsjokk ###
+
+### Kombativ Og Utagerende Pasient ###
+
+### Sectio ###
+
+## Komplikasjoner Etter/Under Anestesi/Prosedyrer ##
+### Anafylaksi ###
+
+### Overtrykkspneumothorax ###
+
+### Smerteproblemstillinger ###
+
+### Blødning Etter Nevroaksial Blokkade ###
+
+### Malign Hypertermi ###
+
+###Systemisk toksisitet av lokalanestesi ###
+
+## Medikamentdoseringer ##
+
+### Beredskapsmedikamenter UNN ###
+
+### Konverteringstabell Opioider ###
+
+###Kardiovasoaktive Medikamenter ###
+
