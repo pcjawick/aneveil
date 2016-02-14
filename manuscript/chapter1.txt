@@ -6,7 +6,9 @@
 
 Denne prosedyren skal læres utenatt.
 
-![](img/c1/uvenluft3dpi.png)
+![Vanskelig luft][id]
+
+[id]: img/c1/uvenluft3dpi.png "Vanskelig maske"
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
