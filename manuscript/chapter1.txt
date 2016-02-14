@@ -15,7 +15,7 @@ Indikasjon:
 
 - Fullstendig kjevesperre
 
-Kontraindikasjoner(alle er realtive):
+Kontraindikasjoner(alle er relative):
 
 - Manglende trening
 - Traume mot halsen
