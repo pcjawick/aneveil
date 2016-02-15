@@ -1,8 +1,8 @@
-# Akuttmedisin##
+-# Akuttmedisin
 
-## Luftvei##
+#Luftvei#
 
-### Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere (CICO/CICV) ###
+## Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere (CICO/CICV) ##
 
 Denne prosedyren skal læres utenatt.
 
@@ -12,11 +12,11 @@ Denne prosedyren skal læres utenatt.
 
 [id]: img/c1/uvenluft3dpikopi.jpg "Vanskelig maske" -->
 
-![Tromsø Airways](img/c1/uvl300bw.png)
+![Tromsø Airways](https://raw.githubusercontent.com/pcjawick/aneveil/master/manuscript/img/c1/uvenluft3dpi.png)
 
 {pagebreak} 
 
-I>### Nødcricothyroidetomi ###
+## Nødcricothyroidetomi ##
 I>Indikasjon: 
 I>
 I>- Kan ikke ventilere/intubere
