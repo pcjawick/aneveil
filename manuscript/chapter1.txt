@@ -7,10 +7,10 @@
 Denne prosedyren skal læres utenatt.
 
 <!-- {width=70%,float=right} -->
-{width=50%, height=50%}
+{width=50%}
 ![Vanskelig luft][id]
 
-[id]: img/c1/uvenluft3dpi.png "Vanskelig maske"
+[id]: img/c1/uvenluft3dpi "Vanskelig maske"
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
