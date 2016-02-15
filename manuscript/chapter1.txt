@@ -1,4 +1,4 @@
--# Akuttmedisin
+-#Akutt
 
 #Luftvei#
 
@@ -62,6 +62,7 @@ W>- Tradisjonell luftveishåndtering ikke forsøkt
 - Ikke stress pasienten (unngå: veneflon(barn), skopi, manipulasjon)
 - Anestesilege skal ikke forlate pasienten
 - 10 l O2/min på maske
+- Vurder adrenalininhalasjon(Racemisk adrenalin er ikke nødvendig)
 - utløs **NØDKIRURGIALARM** (via ø hjelp koordinator: 28474)
 - Varsle ØNH bakvakt 70037 og evt kirurg 70011
 - Sikring av luftvei starter når teamet er på plass og utstyr er tilstede
@@ -69,27 +70,94 @@ W>- Tradisjonell luftveishåndtering ikke forsøkt
 
 **Sjekkliste før luftveishåndtering:**
 
-Gjennomføres av primærvakt anestesi.
+Gjennomføres av anestesilege.
 
 | Spørsmål                                         | Svar                                                               |
 |--------------------------------------------------|--------------------------------------------------------------------|
-| Monitorering?                                    | EKG, SpO2, Blodtrykk koblet og virker                              |
-| Operasjonsteam tilstede?                         | ØNH-bakvakt, Anestesi-bakvakt tilstede                             |
-| Vanskelig luftveiskoffert?                       | Vanskelig luftveikoffert tilgjengelig!                             |
-| Krakk til å stå på?                              | Krakk i posisjon!                                                  |
-| Medikamenter trukket opp og doser beregnet?      | Ketamin 200 mg i merket sprøyte og  rocuronium 1 mg/kg trukket opp |
-| Tuber i 1-2 str mindre enn normalt tilgjengelig? | Tubestr 7-6-5-4 tilstede og sjekket!                               |
-| Videolaryngoskop testet og klart?                | Videolaryngoskop testet og klart!                                  |
-| Eschmann klargjort?                              | Eschmann klar!                                                     |
-| Trachestomibrikke på stuen?                      | Tracheostomibrikke på stue!                                        |
-| Anestesiapparat testet og innstillt?             | Anestesiapparat OK!                                                |
-| Er det noen spørsmål eller uklare momenter?      | (dersom ikke:)Sjekkliste fullført!                                 |
+| **Monitorering?**                                    | EKG, SpO2, Blodtrykk koblet og virker                              |
+| **Operasjonsteam tilstede?**                         | ØNH-bakvakt, Anestesi-bakvakt tilstede                             |
+| **Vanskelig luftveiskoffert?**                       | Vanskelig luftveikoffert tilgjengelig!                             |
+| **Krakk til å stå på?**                              | Krakk i posisjon!                                                  |
+| **Medikamenter trukket opp og doser beregnet?**      | Ketamin 200 mg i merket sprøyte og  rocuronium 1 mg/kg trukket opp |
+| **Tuber i 1-2 str mindre enn normalt tilgjengelig?** | Tubestr 7-6-5-4 tilstede og sjekket!                               |
+| **Videolaryngoskop testet og klart?**                | Videolaryngoskop testet og klart!                                  |
+| **Eschmann klargjort?**                              | Eschmann klar!                                                     |
+| **Trachestomibrikke på stuen?**                      | Tracheostomibrikke på stue!                                        |
+| **Anestesiapparat testet og innstillt?**             | Anestesiapparat OK!                                                |
+| **Er det noen spørsmål eller uklare momenter?**      | (dersom ikke:)Sjekkliste fullført!                                 |
+
+**Gjennomføring**
+
+- Pasientposisjon: Sittende
+- Våkenintubasjon(vurder å posisjonere deg foran pasienten), vær raus med lokalbedøvelsen og gjerrig med hypnotika
+- Alternative strategier: Ingen hypnotika og gassinnledning(8% Sevo og fyll settet) APL: 4-5 cmH2O
+- Vurder bruk av forsiktig videolaryngoskopi og Eschmann i stedet for fiberoptisk skop
+- Vurder primær våken tracheostomi
+- Ha beredskap til konvertering til nødkrikothyroidotomi
+- Ved bruk av relaks: Rocuronium (med Suggamadex 16 mg/kg i beredskap)
+
+**Videre pasientforløp**
+
+- Etter luftveissikring: Pasient flyttes til intesivavdelingen for videre behandling/årsakssøken:
+	- Blodkultur
+	- Infeksjonsstatus
+	- Rtg thorax
+
+-Ekstubasjonskriterer: Avklares i samråd med ØNH og etter skopi
+
+**Varslingsrutiner**
+
+- Intrahospitalt: Varsle primærvakt 70080/alt 70082 alt 70081 
+- Prehospitalt: AMK varsler direkte til 70080/70082 for mottak på operasjonsstuen
+- Barn: Øhjelpkoordinator/AMK varsler barnelegeteam 70001/70002
+- Luftambulanseleger kan også utløse NØDKIRURGI direkte via AMK
+
 
 {pagebreak} 
 
 ### Larynxspasme - Barn ###
 
-lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+**Varsle**
+
+- Intensiv/Oppvåkning BLÅKNAPP
+- Innslusa: 5000 ALARM
+- Dagkirurgen: LEGEALARM
+- Generelt på sykehus: AKUTTALARM BARN "35#" (2-ring)
+
+**Behandle**
+
+- Frie luftveier, klargjør Suksamethonium(IV:0,3 mg/kg, IM/SL: 4-5 mg/kg)
+- Tett maske 100% surstoff(2 håndsteknikk)
+- Kraftig trykk i begge kjevevinkler
+- Press kjeven fram
+- Fjern blod og guffe fra luftveien
+- Vurder svelgtube, injiser suksametonium i tungebasis/im/iv 
+- Vurder bonedrill(EZ-IO(r)) og deleger noen til å hente i akuttmottak
+
+- Hvis veneveg:
+	- Dypere anestesi 1-4 mg/kg (jo yngre pasient jo høyere dose)
+	- Hvis egenrespirasjon (PEEP 4-5 cm H2O)
+	- Årsaker som kan reverseres:
+		- Smerter
+		- Blod eller forurensing i larynx
+		- Problemer ved intubasjon
+		- Laryngomalasi
+		- Eksetern manipulasjon
+	- Vurder reintubasjon og evt forsinket ekstubasjon på intensiv
+	- Bradykardi og svikt i sirkulasjon: HLR barn
+	- Varsle ECMOvakt
+
+- Ingen veneveg:
+	- Bruk EZ-IO
+	- Gi suksamethonium SL/IM
+	- fortsett i veneveg algoritmen
+
+**Forebygging**
+
+**Risikofaktorer**
+
+**Generelt**
+
 
 {pagebreak} 
 
