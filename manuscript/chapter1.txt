@@ -8,9 +8,11 @@ Denne prosedyren skal læres utenatt.
 
 <!-- {width=70%,float=right} -->
 
-![Vanskelig luft][id]
+<!-- ![Vanskelig luft][id]
 
-[id]: img/c1/uvenluft3dpikopi.jpg "Vanskelig maske"
+[id]: img/c1/uvenluft3dpikopi.jpg "Vanskelig maske" -->
+
+![Tromsø Airways](img/c1/uvenluft3dpikopi.jpg)
 
 ### Nødcricothyroidetomi ###
 Indikasjon: 
