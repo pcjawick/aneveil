@@ -12,7 +12,7 @@ Denne prosedyren skal læres utenatt.
 
 [id]: img/c1/uvenluft3dpikopi.jpg "Vanskelig maske" -->
 
-![Tromsø Airways](https://raw.githubusercontent.com/pcjawick/aneveil/master/manuscript/img/c1/uvenluft3dpi.png)
+![Tromsø Airways](manuscript/img/c1/uvenluft3dpi.png)
 
 {pagebreak} 
 
