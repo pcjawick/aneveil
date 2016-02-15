@@ -14,6 +14,8 @@ Denne prosedyren skal læres utenatt.
 
 ![Tromsø Airways](img/c1/uvenluft3dpikopi.jpg)
 
+{pagebreak} 
+
 ### Nødcricothyroidetomi ###
 Indikasjon: 
 
@@ -52,9 +54,10 @@ Kontraindikasjoner(alle er relative):
 
 {pagebreak} {frontmatter} {mainmatter} {backmatter}-->
 {pagebreak} 
+
 ### Øvre Luftveisobstruksjon ###
 
-*Håndtering:*
+**Håndtering:**
 
 - Ikke stress pasienten (unngå: veneflon(barn), skopi, manipulasjon)
 - Anestesilege skal ikke forlate pasienten
@@ -64,7 +67,7 @@ Kontraindikasjoner(alle er relative):
 - Sikring av luftvei starter når teamet er på plass og utstyr er tilstede
 - Ha mental beredskap for kirurgisk luftvei i påvente av utstyr samles
 
-*Sjekkliste før luftveishåndtering:*
+**Sjekkliste før luftveishåndtering:**
 
 Gjennomføres av primærvakt anestesi.
 
@@ -83,16 +86,19 @@ Gjennomføres av primærvakt anestesi.
 | Er det noen spørsmål eller uklare momenter?      | (dersom ikke:)Sjekkliste fullført!                                 |
 
 {pagebreak} 
+
 ### Larynxspasme - Barn ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 {pagebreak} 
+
 ### Svært Overvektige ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 {pagebreak} 
+
 ## Resusitering ##
 
 lipsum dourm 
@@ -102,60 +108,78 @@ lipsum dourm
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 {pagebreak} 
+
 ### Barn ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 {pagebreak} 
+
 ### Voksne ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
 {pagebreak} 
+
 ## Forskjellige Nødkirurgiske/Akutte Anestesier ##
 
 {pagebreak} 
+
 ### Hodeskader og økt intrakranielt trykk(ICP) ###
 
 {pagebreak} 
+
 ### Blødningsjokk ###
 
 {pagebreak} 
+
 ### Kombativ Og Utagerende Pasient ###
 
 {pagebreak} 
+
 ### Sectio ###
 
 {pagebreak} 
+
 ## Komplikasjoner Etter/Under Anestesi/Prosedyrer ##
 
 {pagebreak} 
+
 ### Anafylaksi ###
 
 {pagebreak} 
+
 ### Overtrykkspneumothorax ###
 
 {pagebreak} 
+
 ### Smerteproblemstillinger ###
 
 {pagebreak} 
+
 ### Blødning Etter Nevroaksial Blokkade ###
 
 {pagebreak} 
+
 ### Malign Hypertermi ###
 
 {pagebreak} 
+
 ### Systemisk toksisitet av lokalanestesi ###
 
 {pagebreak} 
+
 ## Medikamentdoseringer ##
 
 {pagebreak} 
+
 ### Beredskapsmedikamenter UNN ###
 
 {pagebreak} 
+
 ### Konverteringstabell Opioider ###
 
 {pagebreak} 
+
 ### Kardiovasoaktive Medikamenter ###
 
