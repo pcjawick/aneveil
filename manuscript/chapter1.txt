@@ -16,20 +16,20 @@ Denne prosedyren skal læres utenatt.
 
 {pagebreak} 
 
-### Nødcricothyroidetomi ###
-Indikasjon: 
+I>### Nødcricothyroidetomi ###
+I>Indikasjon: 
+I>
+I>- Kan ikke ventilere/intubere
+I>
+I>- Respirasjonssvikt
+I>
+I>- Fullstendig kjevesperre i kombinasjon med truende respirasjonssvikt
 
-- Kan ikke ventilere/intubere
-
-- Respirasjonssvikt
-
-- Fullstendig kjevesperre i kombinasjon med truende respirasjonssvikt
-
-Kontraindikasjoner(alle er relative):
-
-- Manglende trening
-- Traume mot halsen
-- Tradisjonell luftveishåndtering ikke forsøkt
+W>Kontraindikasjoner(alle er relative):
+W>
+W>- Manglende trening
+W>- Traume mot halsen
+W>- Tradisjonell luftveishåndtering ikke forsøkt
 
 Å vente på overlege skal ikke forsinke oksygenering av pasienten. Alle leger skal trene på nødkrikothyroidotomi, og prosedyren skal memoreres. 
 
