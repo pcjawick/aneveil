@@ -21,7 +21,7 @@ Indikasjon:
 
 - Respirasjonssvikt
 
-- Fullstendig kjevesperre
+- Fullstendig kjevesperre i kombinasjon med truende respirasjonssvikt
 
 Kontraindikasjoner(alle er relative):
 
@@ -51,19 +51,48 @@ Kontraindikasjoner(alle er relative):
 <!-- ![An awesome sword](images/Sword1200px300ppi.png)
 
 {pagebreak} {frontmatter} {mainmatter} {backmatter}-->
-
+{pagebreak} 
 ### Øvre Luftveisobstruksjon ###
 
-lipsum dorumlipsum dorumlipsum dorum lipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorumlipsum dorum
+*Håndtering:*
 
+- Ikke stress pasienten (unngå: veneflon(barn), skopi, manipulasjon)
+- Anestesilege skal ikke forlate pasienten
+- 10 l O2/min på maske
+- utløs **NØDKIRURGIALARM** (via ø hjelp koordinator: 28474)
+- Varsle ØNH bakvakt 70037 og evt kirurg 70011
+- Sikring av luftvei starter når teamet er på plass og utstyr er tilstede
+- Ha mental beredskap for kirurgisk luftvei i påvente av utstyr samles
+
+*Sjekkliste før luftveishåndtering:*
+
+Gjennomføres av primærvakt anestesi.
+
+| Spørsmål                                         | Svar                                                               |
+|--------------------------------------------------|--------------------------------------------------------------------|
+| Monitorering?                                    | EKG, SpO2, Blodtrykk koblet og virker                              |
+| Operasjonsteam tilstede?                         | ØNH-bakvakt, Anestesi-bakvakt tilstede                             |
+| Vanskelig luftveiskoffert?                       | Vanskelig luftveikoffert tilgjengelig!                             |
+| Krakk til å stå på?                              | Krakk i posisjon!                                                  |
+| Medikamenter trukket opp og doser beregnet?      | Ketamin 200 mg i merket sprøyte og  rocuronium 1 mg/kg trukket opp |
+| Tuber i 1-2 str mindre enn normalt tilgjengelig? | Tubestr 7-6-5-4 tilstede og sjekket!                               |
+| Videolaryngoskop testet og klart?                | Videolaryngoskop testet og klart!                                  |
+| Eschmann klargjort?                              | Eschmann klar!                                                     |
+| Trachestomibrikke på stuen?                      | Tracheostomibrikke på stue!                                        |
+| Anestesiapparat testet og innstillt?             | Anestesiapparat OK!                                                |
+| Er det noen spørsmål eller uklare momenter?      | (dersom ikke:)Sjekkliste fullført!                                 |
+
+{pagebreak} 
 ### Larynxspasme - Barn ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
+{pagebreak} 
 ### Svært Overvektige ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
+{pagebreak} 
 ## Resusitering ##
 
 lipsum dourm 
@@ -72,43 +101,61 @@ lipsum dourm
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
+{pagebreak} 
 ### Barn ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
+{pagebreak} 
 ### Voksne ###
 
 lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
 
+{pagebreak} 
 ## Forskjellige Nødkirurgiske/Akutte Anestesier ##
 
+{pagebreak} 
 ### Hodeskader og økt intrakranielt trykk(ICP) ###
 
+{pagebreak} 
 ### Blødningsjokk ###
 
+{pagebreak} 
 ### Kombativ Og Utagerende Pasient ###
 
+{pagebreak} 
 ### Sectio ###
 
+{pagebreak} 
 ## Komplikasjoner Etter/Under Anestesi/Prosedyrer ##
 
+{pagebreak} 
 ### Anafylaksi ###
 
+{pagebreak} 
 ### Overtrykkspneumothorax ###
 
+{pagebreak} 
 ### Smerteproblemstillinger ###
 
+{pagebreak} 
 ### Blødning Etter Nevroaksial Blokkade ###
 
+{pagebreak} 
 ### Malign Hypertermi ###
 
+{pagebreak} 
 ### Systemisk toksisitet av lokalanestesi ###
 
+{pagebreak} 
 ## Medikamentdoseringer ##
 
+{pagebreak} 
 ### Beredskapsmedikamenter UNN ###
 
+{pagebreak} 
 ### Konverteringstabell Opioider ###
 
+{pagebreak} 
 ### Kardiovasoaktive Medikamenter ###
 
