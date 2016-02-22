@@ -2,7 +2,7 @@ Akuttmedisin - Chapter1.txt
 
 Katastrofeplan(kortutgave for anestesileger)
 
-Arbeidshverdagen
+Arbeidshverdagen - chapter3.txt
 	Vakttidsdefinisjoner og møtetidspunkter
 	Internundervisning og fagsnutt
 	Melding av uønskede hendelser
@@ -84,4 +84,6 @@ Ved avslutning
 Anestesistrategier etter organproblem
 
 Intesivbehandling og intensivtransport
+
+Diagnostisk ultralyd (ultralyd.txt)
 

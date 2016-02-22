@@ -1,0 +1,45 @@
+-#Arbeidshverdagen
+	
+	#Vakttidsdefinisjoner og møtetidspunkter
+	
+	##Hand-over/Rapporteringstidspunkter
+		###Man - Torsdag:
+
+			kl 07:30 - Morgenrapport
+
+			kl 15:00 - Ettermiddagsrapport
+
+		###Fredag
+
+			kl 07:30 - Morgenrapport
+
+			kl 14:30 - Ettermiddagsrapport med internundervisning
+
+		###Lørdag
+
+			kl 08:30 Morgenrapport
+
+			Kl 20:00 Ettermiddagsrapport
+
+
+	##PV1
+
+		Mandag - Fredag: 14:30 - 08:00
+
+		Lørdag: dagtid: 08:30 - 21:00
+
+				natt: 21:00 - 10:00
+
+		Søndag: dagtid: 09:00 - 20:00
+
+				natt: 20:00 - 10:00
+
+	##PV2
+
+
+	#Internundervisning og fagsnutt
+	#Melding av uønskede hendelser
+
+	#Registrering av prosedyrer
+
+	#Callingliste

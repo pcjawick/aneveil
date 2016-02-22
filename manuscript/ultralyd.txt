@@ -1,0 +1,62 @@
+-# Diagnostisk ultralyd Ultralyd
+
+# Ekkokardiografi
+
+##Forslag til journalmal
+
+##Fokusert ekko uten målinger(Prehospital protokoll?)
+
+## Intrahospital ekkokardiografisk undersøkelse
+
+1) Venstre Ventrikkel (PSAX, 4K)
+2) Venstre Atrium (4K)
+3) Høyre Atrium (4K)
+4) Høyre ventrikkel (PSAX,4k)
+5) Aortaklaffen (PLAX, PSAX)
+6) Mitralklaffen (PSAX,PLAX 4k)
+7) Tricuspidalklaffen (PSAX,PLAX 4k)
+8) Pulmonalklaffen (PSAX)
+9) Perikard (SC)
+10) Aorta (PSAX, SC, Jug)
+11) Pulmonalarterien (PSAX)
+12) Vena Cava Inferior og pulmonalvener (SC,4K)
+
+###Venstre Ventrikkel (PSAX, 4K)
+
+###Venstre Atrium (4K)
+
+###Høyre Atrium (4K)
+
+###Høyre ventrikkel (PSAX,4k)
+
+###Aortaklaffen
+
+###Mitralklaffen
+
+###Tricuspidalklaffen
+
+###Pulmonalklaffen
+
+###Perikard
+
+###Aorta 
+
+###Pulmonalarterien
+
+###Vena Cava Inferior og pulmonalvener
+
+# Lunge
+
+# Tromsøprotokollen for intensivpasienter
+
+Ekko + lunge + PiCCo
+
+# Tromsøprotokollen for AHLR
+
+Pulssjekk; Reversible årsaker:
+	- PSAX, SC --> Perikardvæske? Pressor?
+	- Lunge: Pneumotx? Massiv væske?
+
+# Intraoperativ TEE
+
+# Intraoperativ væskrerespons (Carotis VTI)

@@ -4,6 +4,8 @@
 
 ## Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere (CICO/CICV) ##
 
+***
+
 Denne prosedyren skal læres utenatt.
 
 <!-- {width=70%,float=right} -->
@@ -17,6 +19,9 @@ Denne prosedyren skal læres utenatt.
 {pagebreak} 
 
 ## Nødcricothyroidetomi ##
+
+***
+
 I>Indikasjon: 
 I>
 I>- Kan ikke ventilere/intubere
@@ -56,6 +61,8 @@ W>- Tradisjonell luftveishåndtering ikke forsøkt
 {pagebreak} 
 
 ### Øvre Luftveisobstruksjon ###
+
+***
 
 **Håndtering:**
 
@@ -116,6 +123,8 @@ Gjennomføres av anestesilege.
 {pagebreak} 
 
 ### Larynxspasme - Barn ###
+
+*** 
 
 **Varsle**
 
