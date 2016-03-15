@@ -21,6 +21,9 @@
 11) Pulmonalarterien (PSAX)
 12) Vena Cava Inferior og pulmonalvener (SC,4K)
 
+PSAX(VV, HV, Aklaff, Mklaff,3cklaff,Pklaff,Aorta,Pulmart)
+PLAX(mitral, 3cklaff, Csinusvene)
+
 ###Venstre Ventrikkel (PSAX, 4K)
 
 ###Venstre Atrium (4K)
@@ -49,7 +52,7 @@
 
 # Tromsøprotokollen for intensivpasienter
 
-Ekko + lunge + PiCCo
+Ekko + lunge + PiCCo + SG
 
 # Tromsøprotokollen for AHLR
 
