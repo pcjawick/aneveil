@@ -1,8 +1,14 @@
 -# Diagnostisk ultralyd Ultralyd
 
-# Ekkokardiografi
+# Ekkokardiografi i et hemodynamisk perspektiv
 
-##Forslag til journalmal
+##Forslag til journalmal(fjern det som ikke passer)
+
+Undersøkelse av pasienten liggende på rygg, under pågående resusicitering, med utfordrende/gode innsyn med transthorakal probe.
+
+Parasternal langakse: Godt innsyn. EPSS ikke målt. God kontraksjon, mitral og LVOT samt tricuspidal er lett synlige. 
+
+Parasternal kortakse: 
 
 ##Fokusert ekko uten målinger(Prehospital protokoll?)
 
