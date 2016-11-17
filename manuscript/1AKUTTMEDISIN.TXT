@@ -1,0 +1,339 @@
+-#Akuttdel 
+
+#Luftvei#
+
+## Kan Ikke Ventilere Kan Ikke Oksygenere/Ventilere (CICO/CICV) ##
+
+***
+
+Denne prosedyren skal læres utenatt.
+
+<!-- {width=70%,float=right} -->
+
+<!-- ![Vanskelig luft][id]
+
+[id]: img/c1/uvenluft3dpikopi.jpg "Vanskelig maske" -->
+
+![Tromsø Airways](images/uvenluft3dpi.png)
+
+{pagebreak} 
+
+## Nødcricothyroidetomi ##
+
+***
+
+I>Indikasjon: 
+I>
+I>- Kan ikke ventilere/intubere
+I>
+I>- Respirasjonssvikt
+I>
+I>- Fullstendig kjevesperre i kombinasjon med truende respirasjonssvikt
+
+W>Kontraindikasjoner(alle er relative):
+W>
+W>- Manglende trening
+W>- Traume mot halsen
+W>- Tradisjonell luftveishåndtering ikke forsøkt
+
+Å vente på overlege skal ikke forsinke oksygenering av pasienten. Alle leger skal trene på nødkrikothyroidotomi, og prosedyren skal memoreres. 
+
+**Utstyrsliste:**
+
+*Nødvendig*
+
+- Tube str 6
+- Eshmann
+- Skalpell
+- Beskyttelsesbriller
+- Hansker
+
+*Ønskelig*
+
+- Sterile hansker
+- Klorhexidin
+- Arteriepinsett
+- Kompresser
+
+<!-- ![An awesome sword](images/Sword1200px300ppi.png)
+
+{pagebreak} {frontmatter} {mainmatter} {backmatter}-->
+{pagebreak} 
+
+### Øvre Luftveisobstruksjon ###
+
+***
+
+**Håndtering:**
+
+- Ikke stress pasienten (unngå: veneflon(barn), skopi, manipulasjon)
+- Anestesilege skal ikke forlate pasienten
+- 10 l O2/min på maske
+- Vurder adrenalininhalasjon(Racemisk adrenalin er ikke nødvendig)
+- utløs **NØDKIRURGIALARM** (via ø hjelp koordinator: 28474)
+- Varsle ØNH bakvakt 70037 og evt kirurg 70011
+- Sikring av luftvei starter når teamet er på plass og utstyr er tilstede
+- Ha mental beredskap for kirurgisk luftvei i påvente av utstyr samles
+
+**Sjekkliste før luftveishåndtering:**
+
+Gjennomføres av anestesilege.
+
+| Spørsmål                                         | Svar                                                               |
+|--------------------------------------------------|--------------------------------------------------------------------|
+| **Monitorering?**                                    | EKG, SpO2, Blodtrykk koblet og virker                              |
+| **Operasjonsteam tilstede?**                         | ØNH-bakvakt, Anestesi-bakvakt tilstede                             |
+| **Vanskelig luftveiskoffert?**                       | Vanskelig luftveikoffert tilgjengelig!                             |
+| **Krakk til å stå på?**                              | Krakk i posisjon!                                                  |
+| **Medikamenter trukket opp og doser beregnet?**      | Ketamin 200 mg i merket sprøyte og  rocuronium 1 mg/kg trukket opp |
+| **Tuber i 1-2 str mindre enn normalt tilgjengelig?** | Tubestr 7-6-5-4 tilstede og sjekket!                               |
+| **Videolaryngoskop testet og klart?**                | Videolaryngoskop testet og klart!                                  |
+| **Eschmann klargjort?**                              | Eschmann klar!                                                     |
+| **Trachestomibrikke på stuen?**                      | Tracheostomibrikke på stue!                                        |
+| **Anestesiapparat testet og innstillt?**             | Anestesiapparat OK!                                                |
+| **Er det noen spørsmål eller uklare momenter?**      | (dersom ikke:)Sjekkliste fullført!                                 |
+
+**Gjennomføring**
+
+- Pasientposisjon: Sittende
+- Våkenintubasjon(vurder å posisjonere deg foran pasienten), vær raus med lokalbedøvelsen og gjerrig med hypnotika
+- Alternative strategier: Ingen hypnotika og gassinnledning(8% Sevo og fyll settet) APL: 4-5 cmH2O
+- Vurder bruk av forsiktig videolaryngoskopi og Eschmann i stedet for fiberoptisk skop
+- Vurder primær våken tracheostomi
+- Ha beredskap til konvertering til nødkrikothyroidotomi
+- Ved bruk av relaks: Rocuronium (med Suggamadex 16 mg/kg i beredskap)
+
+**Videre pasientforløp**
+
+- Etter luftveissikring: Pasient flyttes til intesivavdelingen for videre behandling/årsakssøken:
+	- Blodkultur
+	- Infeksjonsstatus
+	- Rtg thorax
+
+-Ekstubasjonskriterer: Avklares i samråd med ØNH og etter skopi
+
+**Varslingsrutiner**
+
+- Intrahospitalt: Varsle primærvakt 70080/alt 70082 alt 70081 
+- Prehospitalt: AMK varsler direkte til 70080/70082 for mottak på operasjonsstuen
+- Barn: Øhjelpkoordinator/AMK varsler barnelegeteam 70001/70002
+- Luftambulanseleger kan også utløse NØDKIRURGI direkte via AMK
+
+
+{pagebreak} 
+
+### Larynxspasme - Barn ###
+
+*** 
+
+**Varsle**
+
+- Intensiv/Oppvåkning BLÅKNAPP
+- Innslusa: 5000 ALARM
+- Dagkirurgen: LEGEALARM
+- Generelt på sykehus: AKUTTALARM BARN "35#" (2-ring)
+
+**Behandle**
+
+- Frie luftveier, klargjør Suksamethonium(IV:0,3 mg/kg, IM/SL: 4-5 mg/kg)
+- Tett maske 100% surstoff(2 håndsteknikk)
+- Kraftig trykk i begge kjevevinkler
+- Press kjeven fram
+- Fjern blod og guffe fra luftveien
+- Vurder svelgtube, injiser suksametonium i tungebasis/im/iv 
+- Vurder bonedrill(EZ-IO(r)) og deleger noen til å hente i akuttmottak
+
+- Hvis veneveg:
+	- Dypere anestesi 1-4 mg/kg (jo yngre pasient jo høyere dose)
+	- Hvis egenrespirasjon (PEEP 4-5 cm H2O)
+	- Årsaker som kan reverseres:
+		- Smerter
+		- Blod eller forurensing i larynx
+		- Problemer ved intubasjon
+		- Laryngomalasi
+		- Eksetern manipulasjon
+	- Vurder reintubasjon og evt forsinket ekstubasjon på intensiv
+	- Bradykardi og svikt i sirkulasjon: HLR barn
+	- Varsle ECMOvakt
+
+- Ingen veneveg:
+	- Bruk EZ-IO
+	- Gi suksamethonium SL/IM
+	- fortsett i veneveg algoritmen
+
+**Forebygging**
+
+	-	Utsett elektiv behandling av barn med øvre luftvegsinfeksjon – lav terskel 
+	(veiledende 4 uker). For noen ØNH-barn med nærmest kronisk 
+	luftvegsinfeksjoner kan dette være en vanskelig vurdering – konsulter erfaren 
+	anestesilege 
+	-	Vurder om prosedyren kan gjøres i maskenarkose eller med larynxmaske ? 
+	Rolige behandlere -> rolige foreldre -> rolige barn ? God postoperativ 
+	smertelindring! 
+	-	God hemostase og renovasjon av luftveger mens barnet er dypt 
+	Unngå manipulering og stimulering av barnet i eksistasjonsfaser (induksjon, 
+	vekking) , spesielt luftveger og utside av hals 
+	-	Hvis ekstubasjon gjøres dypt, fokus på at dette ikke gjøres i eksitasjonsfase og i sideleie 
+	- 	Ekstubasjon i inspirasjon under lett overtrykk kan bidra til slimrenovering 
+	-	Vurder Penthothal 1 mg/kg eller Propofol 0,5 mg/kg e.etablert spontanventilasjon og før ekstubasjon særlig etter en sevofluran-induksjon hvor barnet ikke samarbeider 
+	-	Ikke nødvendig ved TIVA med Propofol 
+	-	Forsiktig transport til Oppvåkningen, ta med maske/bag og suxamethonium  
+	-	Stille, rolig oppvåkning. Minst mulig stimulering. Monitorering med SpO2 er oftest nok. 
+	-	Ved tegn til stridor unngå luftvegsmanipulering (suging, svelgtube) 
+
+**Risikofaktorer**
+	-	Nylig luftvegsinfeksjon 
+	-	Prosedyre i munnhule/svelg (ØNH-prosedyrer) 
+	-	Uerfarne anestesister 
+	-	Stimulering/luftvegsmanipulering i eksistasjonsfaser 
+	-	Intubasjon uten muskelrelaksantia 
+	-	Små barn 
+	-	Øyeblikkelig hjelp ? Passiv røyking ? Sevoinduksjon? 
+
+**Generelt**
+Insidensen av larynxspasmer på friske barn under 9 år 17/1000 anestesier. 
+Insidensen er 96/1000 ved aktuell øvre luftvegsinfeksjon. Spasmer opptrer oftest når 
+barnet er i eksistasjonsfase – under innsovning eller under vekking. Viktigste 
+risikofaktor er nylig luftvegsinfeksjon, ØNH-prosedyre og urenoverte luftveger (se 
+over). Kan også utløses av ytre stimuli som mekanisk irritasjon (trykk på hals, 
+dunking av seng i dør under transport) og lyd. Spasmer kan være delvise eller totale, 
+og forutgås ofte av hvesende respirasjon/inspiratorisk stridor. Helt ufri luftveg 
+erkjennes først ved at barnet får paradokse respirasjonsbevegelser (buken går inn 
+ved inspirasjon, inndragninger i thorax). Fall i saturasjon (SpO2) er et alvorlig tegn. 
+
+{pagebreak}
+  
+ 
+{pagebreak}    
+
+
+## Resusitering ##
+
+lipsum dourm 
+
+### Nyfødte ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
+{pagebreak} 
+
+### Barn ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
+{pagebreak} 
+
+### Voksne ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
+{pagebreak} 
+
+## Forskjellige Nødkirurgiske/Akutte Anestesier ##
+
+{pagebreak} 
+
+### Hodeskader og økt intrakranielt trykk(ICP) ###
+
+{pagebreak} 
+
+### Blødningsjokk ###
+
+{pagebreak} 
+
+### Kombativ Og Utagerende Pasient ###
+
+{pagebreak} 
+
+### Sectio ###
+
+{pagebreak} 
+
+## Komplikasjoner Etter/Under Anestesi/Prosedyrer ##
+
+{pagebreak} 
+
+### Anafylaksi ###
+
+{pagebreak} 
+
+### Overtrykkspneumothorax ###
+
+
+***
+
+**Behandling **
+-	Anleggelse av thoraxdren før oppstart av overtrykksventilasjon ved mistanke om pneumothorax 
+-	Umiddelbar avlastning uten forutgående rtg thorax ved klinisk misstanke og 
+ 	-	SpO2 < 90% 
+ 	-	Systolisk blodtrykk under 90 
+ 	-	Respirasjonsfrekvens < 10 eller > 35 
+ 	-	Redusert bevissthetsnivå 
+ 	-	Hjertestans 
+ 
+Akutt avlastning når thoraxdren ikke er umiddelbart tilgjengelig: 
+-	Dekompresjon med grov nål i 2. eller 3. intercostalrom medioclavikulært med grå Sekalon-T på voksne eller med grå Veneflon: Fjern veneflon fra kanyle og punkter med kanylen koblet til en sprøyte med NaCl og negativt trykk. Metoden gir ikke sikker avlastning, heller ikke sikker 
+diagnostikk. 
+  
+ 
+Ved fortsatt klinisk mistanke bør vanlig thoraxdren anlegges i 3-5 intercostalrom midtaksillært. (Kirurg: 
+70011). 
+Utstyr: Thoraxdren finnes på tralle på operasjonsavdelingen og i akuttskap på 
+akuttmottaket 
+
+*Gjennomføring:*
+	-	Insisjon intercostalt medioaxillært 3-5.intercostalrom for å gå klar av parenchymatøse organer. Lidocain med adrenalin på våken pasient.  
+  	-	Sprik med piang, stump disseksjon rostralt og rett over underliggende ribben. 
+	-	Penetrer pleura parietale med piang. Utvid åpning ved å sprike med piangen.  
+	-	Stikk inn finger og kjenn at du er i fri kavitet og at det ikke er adheranser i hele circumferensen. 
+	-	Dersom det er andre presserende oppgaver kan man vente med å legge inn dren. Hvis tid anlegges en madrassututur til fiksasjon av drenet i neste omgang. 
+ 
+*Generelt:* 
+Overtrykkspneumothorax er en sjelden tilstand med dødelig utgang dersom den 
+forblir ubehandlet. Overses ofte i initialfasen grunnet smygende utvikling. Tilstanden 
+fremkommer ved en envegsventilmekanisme til pleuralhulen, og kan utvikles seg 
+særlig hurtig ved bronchopleural fistel og overtrykksventilasjon.  
+ 
+Insidensen i traumepopulasjonen er ca 5 %. 
+ 
+**Diagnose**
+
+Pneumothoraxdiagnositikk med ultralyd Ultralyd av normal lunge, anbefales. Skal likevel ikke forsinke behandling ved klinisk mistanke.
+
+{pagebreak} 
+
+### Smerteproblemstillinger ###
+
+{pagebreak} 
+
+### Blødning Etter Nevroaksial Blokkade ###
+
+{pagebreak} 
+
+### Malign Hypertermi ###
+
+{pagebreak} 
+
+### Systemisk toksisitet av lokalanestesi ###
+
+{pagebreak} 
+
+## Medikamentdoseringer ##
+
+{pagebreak} 
+
+### Beredskapsmedikamenter UNN ###
+
+{pagebreak} 
+
+### Konverteringstabell Opioider ###
+
+{pagebreak} 
+
+### Kardiovasoaktive Medikamenter ###
+
+### Svært Overvektige ###
+
+lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm lipsum dourm 
+
+{pagebreak} 
